@@ -2,6 +2,7 @@ format: jb-book
 root: index
 chapters:
   - file: lecture_16_example
+  - file: lab9_yellow_taxi
  
 
 
