@@ -3,7 +3,8 @@ root: index
 chapters:
   - file: lecture_16_example
   - file: lab9_yellow_taxi
-  - file: project_1
+  - file: project_1_pandas
+  - file: project_1_hardway
  
 
 
